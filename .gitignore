@@ -1,0 +1,7 @@
+work_dirs
+data
+log
+results
+*.pyc
+*.ipynb_checkpoints
+*ipynb
